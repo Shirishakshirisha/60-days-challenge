@@ -1,4 +1,5 @@
-
+Time Complexity: O(n log n) in the best, average, and worst cases. This reflects the algorithm's efficiency in dividing the array and merging the sorted subarrays.
+Space Complexity: O(n) due to the use of temporary arrays for merging and additional space required for the recursive stack.
 public class MergeSort {
 
     // Function to merge two sorted arrays
